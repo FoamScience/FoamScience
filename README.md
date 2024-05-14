@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 🎩 [PhD project docs](https://foamscience.github.io/MeshFreeFoam-Docs/) (you can't see the code yet, but can see the docs!)
 - 📚 [OpenFOAM Parallelization course](https://openfoam-parallelisation-course.github.io/)
   (Best hands-on training ever made, with activities and mini projects)
+- ✏️  [My Neovim Configs](https://github.com/FoamScience/configs.nvim)
+  (Best NeoVim config for OpenFOAM development)
 
 ## Important Repositories
 
