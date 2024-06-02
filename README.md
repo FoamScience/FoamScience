@@ -49,6 +49,11 @@ These are the projects that I've been working on, or have been a main dev of:
 - 🏸 [TreeSitter grammer for OpenFOAM](https://github.com/FoamScience/tree-sitter-foam): A tree-sitter grammar for OpenFOAM files
 - 💬 [A language server for OpenFOAM files](https://github.com/FoamScience/foam-language-server): A language server for OpenFOAM dictionaries
 
+- 📦 [OpenFOAM Apptainer containers](https://github.com/FoamScience/openfoam-apptainer-packaging):
+  Automatically produce HPC-ready Apptainer containers for your OpenFOAM-based libraries
+- 💨 [OpenFOAM code transformations](https://github.com/FoamScience/openfoam-code-transformations):
+  Transform OpenFOAM code without the help of compilers; great for refactoring and formatting.
+
 ### Experiments
 
 - ⚡ [OpenMP target offloading](https://github.com/FoamScience/OpenMP-OpenFOAM-benchmarks):
