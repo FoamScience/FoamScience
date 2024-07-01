@@ -62,3 +62,4 @@ These are the projects that I've been working on, or have been a main dev of:
   Lazy evaluation with views and template expressions in OpenFOAM.
 - 🌱 [Reflections](https://github.com/FoamScience/openfoam-reflections): Reflections in OpenFOAM
 
+![FoamScience's GitHub stats](https://github-readme-stats-drab-nu-46.vercel.app/api?username=foamscience&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
