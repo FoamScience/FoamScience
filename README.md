@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 A CFD PhD student who likes getting involved in DevOps and OSS, but just another
-Math guy underneath. You'll find cool OpenFOAM-related projects here.
+Math guy underneath.
+
+You'll find cool OpenFOAM-related projects here.
 
 <!--
 **FoamScience/FoamScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,21 +23,19 @@ Here are some ideas to get you started:
 ## Important links
 
 - 🚀 [Main personal blog](https://foamscience.github.io/) (not posting frequently, oops!)
-- 🎩 [PhD project docs](https://foamscience.github.io/MeshFreeFoam-Docs/) (you can't see the code yet, but can see the docs!)
 - 📚 [OpenFOAM Parallelization course](https://openfoam-parallelisation-course.github.io/)
   (Best hands-on training ever made, with activities and mini projects)
 - ✏️  [My Neovim Configs](https://github.com/FoamScience/configs.nvim)
   (Best NeoVim config for OpenFOAM development)
+- 🎩 [PhD project docs](https://foamscience.github.io/MeshFreeFoam-Docs/) (you can't see the code yet, but can see the docs!)
 
 ## Important Repositories
 
 These are the repositories that **I deem** to be important and stable enough for mentioning here:
 
-### OpenFOAM projects
+### OpenFOAM-related projects
 
-These are the projects that I've been working on, or have been a main dev of:
-
-- 🔭 [blastARM](https://github.com/STFS-TUDa/blastAMR): Load-balanced Adaptive mesh refinement for polyhedral meshes in OpenFOAM
+- 🔭 [blastAMR](https://github.com/STFS-TUDa/blastAMR): Load-balanced Adaptive mesh refinement for polyhedral meshes in OpenFOAM
 - 🧪 [foamUT](https://github.com/FoamScience/foamUT): Unit testing framework for OpenFOAM
 - 🪡 [foamBO](https://github.com/FoamScience/OpenFOAM-Multi-Objective-Optimization): Near-Zero-Configuration
   Multi-objective optimization framework for OpenFOAM
@@ -44,7 +44,7 @@ These are the projects that I've been working on, or have been a main dev of:
 - 👯 [OpenFOAM ML Hackathon](https://github.com/OFDataCommittee/OFMLHackathon):
   Yearly hackathon organized by the OpenFOAM Data-driven modelling SIG.
 
-### OpenFOAM tools
+### OpenFOAM-related tools
 
 - 🏸 [TreeSitter grammer for OpenFOAM](https://github.com/FoamScience/tree-sitter-foam): A tree-sitter grammar for OpenFOAM files
 - 💬 [A language server for OpenFOAM files](https://github.com/FoamScience/foam-language-server): A language server for OpenFOAM dictionaries
@@ -62,4 +62,21 @@ These are the projects that I've been working on, or have been a main dev of:
   Lazy evaluation with views and template expressions in OpenFOAM.
 - 🌱 [Reflections](https://github.com/FoamScience/openfoam-reflections): Reflections in OpenFOAM
 
-![FoamScience's GitHub stats](https://github-readme-stats-drab-nu-46.vercel.app/api?username=foamscience&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+### Talks/presentations
+
+#### Optimization
+
+- 🎮 [MMA seminar](https://foamscience.github.io/mma-seminar-byes-opt-presentation/): Pave the way to
+  optimize game balance using Bayesian Algorithms!
+- 🔥 [SandiaD Flame](https://foamscience.github.io/SandiaD-LTS-Bayesian-Optimization): An introduction
+  to Bayesian Optimization on CFD cases: `foamBO`
+
+#### Tooling
+
+- 🧪 [Unit testing OpenFOAM code: foamUT](https://foamscience.github.io/openfoam-unit-testing-presentation)
+- 📦 [Packaging HPC software: Apptainer](https://foamscience.github.io/openfoam-apptainer-containers-presentation/)
+
+
+![](https://github-readme-stats.vercel.app/api?username=FoamScience&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=FoamScience&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoamScience&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
