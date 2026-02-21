@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   (Best hands-on training ever made, with activities and mini projects)
 - ✏️  [My Neovim Configs](https://github.com/FoamScience/configs.nvim)
   (Best NeoVim config for OpenFOAM development)
-- 🎩 [PhD project docs](https://foamscience.github.io/MeshFreeFoam-Docs/) (you can't see the code yet, but can see the docs!)
+- 🎩 [Incomplete - PhD project docs](https://foamscience.github.io/MeshFreeFoam-Docs/)
 
 ## Important Repositories
 
@@ -40,13 +40,13 @@ These are the repositories that **I deem** to be important and stable enough for
 - 🪡 [foamBO](https://github.com/FoamScience/OpenFOAM-Multi-Objective-Optimization): Near-Zero-Configuration
   Multi-objective optimization framework for OpenFOAM
 
-- 🤔 [OpenFOAM-SmartSim](https://github.com/OFDataCommittee/openfoam-smartsim): OpenFOAM with ML through SmartSim.
+- 🤔 [OpenFOAM-SmartSim](https://github.com/OFDataCommittee/openfoam-smartsim): OpenFOAM with ML through SmartSim - This has now made into openfoam.com releases as [a community submodule](https://gitlab.com/openfoam/community/sig-data-modelling/data-community)
 - 👯 [OpenFOAM ML Hackathon](https://github.com/OFDataCommittee/OFMLHackathon):
   Yearly hackathon organized by the OpenFOAM Data-driven modelling SIG.
 
 ### OpenFOAM-related tools
 
-- 🏸 [TreeSitter grammer for OpenFOAM](https://github.com/FoamScience/tree-sitter-foam): A tree-sitter grammar for OpenFOAM files
+- 🏸 [TreeSitter grammar for OpenFOAM](https://github.com/FoamScience/tree-sitter-foam): A tree-sitter grammar for OpenFOAM files
 - 💬 [A language server for OpenFOAM files](https://github.com/FoamScience/foam-language-server): A language server for OpenFOAM dictionaries
 
 - 📦 [OpenFOAM Apptainer containers](https://github.com/FoamScience/openfoam-apptainer-packaging):
@@ -75,7 +75,7 @@ These are the repositories that **I deem** to be important and stable enough for
 
 - 🧪 [Unit testing OpenFOAM code: foamUT](https://foamscience.github.io/openfoam-unit-testing-presentation)
 - 📦 [Packaging HPC software: Apptainer](https://foamscience.github.io/openfoam-apptainer-containers-presentation/)
-
+- ⚡[An LSP](https://github.com/FoamScience/xonsh-language-server) and [a TreeSitter grammar for xonsh](https://github.com/FoamScience/tree-sitter-xonsh)
 
 ![](https://github-readme-stats.vercel.app/api?username=FoamScience&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FoamScience&theme=transparent&hide_border=true)<br/>
